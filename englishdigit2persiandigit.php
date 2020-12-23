@@ -1,6 +1,6 @@
 <?php
 
-//ENGLISH DIGIT TO PERSIAN DIGIT
+//ENGLISH DIGIT TO PERSIAN DIGIT (edited)
 function englishdigit2persiandigit($englishdigitstring)
 {
     $persiandigits = ['۰', '۱', '۲', '۳', '۴', '۵', '۶', '۷', '۸', '۹'];
